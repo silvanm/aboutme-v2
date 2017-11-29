@@ -1,0 +1,88 @@
+{
+  "intro" : {
+    "caption": "Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing strategy games with my kids and making long open water swims) is to complete small projects. Even better if they are useful."
+  },
+  "goetterstammbaum": {
+    "title": "Götterstammbaum",
+    "url": "http://xn--gtterstammbaum-vpb.xn--mhlemann-65a.ch/",
+    "image": "/static/images/goetterstammbaum.png",
+    "caption": "Interactive graph showing 170 greek gods.",
+    "date": "2017-11-13"
+  },
+  "doorbell": {
+    "title": "Multisound-Doorbell",
+    "url": "http://mpom-doorbell.herokuapp.com/static/demo.html",
+    "image": "/static/images/doorbell.jpg",
+    "caption": "Play with our web based multi-ringtone doorbell we have installed for our coworking-space on this website.",
+    "date": "2017-10-16"
+  },
+  "meetingroomdisplay": {
+    "title": "Meetingroom Display",
+    "image": "/static/images/Meetingroom-Display.gif",
+    "caption": "The 3 meetingrooms in our office display their current availability via old iPhone 4 connected to a Google Calendar.",
+    "date": "2017-08-10"
+  },
+  "bronzehouse": {
+    "title": "3D print of our house",
+    "url": "https://www.facebook.com/silvan.muehlemann/posts/10155672214080719",
+    "image": "/static/images/bronzehouse.jpg",
+    "caption": "For my wife's birthday I created a 3D printed bronze model of our house (she designed btw).",
+    "date": "2017-08-04"
+  },
+  "presencedetector": {
+    "title": "Bathroom occupancy detector",
+    "url": "https://www.facebook.com/silvan.muehlemann/videos/10155167313840719/",
+    "image": "/static/images/presencedetector.jpg",
+    "caption": "Device for the Mühlemann&Popp AG/Eveni.to office. Tells us whether the bathroom is occupied or not (Like in the Swiss trains). Saves us unnecessary walks to the bathroom.",
+    "date": "2017-03-11"
+  },
+  "highwaysim": {
+    "title": "Highway Simulator",
+    "url": "http://mpom-doorbell.herokuapp.com/static/demo.html",
+    "image": "/static/images/highwaysim.gif",
+    "caption": "This little app is a simple simulator of cars on a highway. Play with the parameters or stop any car by touching it.",
+    "date": "2016-10-08"
+  },
+  "lasertiming": {
+    "title": "Laser Timing",
+    "url": "https://www.facebook.com/silvan.muehlemann/posts/10154588213655719",
+    "image": "/static/images/lasertiming.jpg",
+    "caption": "My kids love to make running competitions in the front of the house. Daddy loves to build gadgets. So I built a laser-controlled timing device. You hit the start button. The kids run. Every time they interrupt the beam the Arduino records the current time.",
+    "date": "2016-09-19"
+  },
+  "kitchendisplay": {
+    "title": "Kitchendisplay",
+    "url": "https://www.facebook.com/silvan.muehlemann/videos/10153918342970719/",
+    "image": "/static/images/kitchendisplay.jpg",
+    "caption": "Second life for my old Smartphone: An information display in our kitchen showing tons of informations like my my current location, air quality, nice instagram pictures etc.",
+    "date": "2016-01-19"
+  },
+  "emailstat": {
+    "title": "26'206 Mails on one graph",
+    "url": "https://www.facebook.com/photo.php?fbid=10153819024815719&set=a.201343665718.161208.576250718&type=3&theater",
+    "image": "/static/images/emailstat.jpg",
+    "caption": "All the emails sent by me during the past 5 years shown in one graph. Each represented by a dot. The color of the dot represents the domain name.",
+    "date": "2015-11-16"
+  },
+  "sensio": {
+    "title": "An Sensio clone",
+    "rawhtml": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Z3zTZwHtBqc' frameborder='0' allowfullscreen></iframe></div>",
+    "caption": "Vacations + 5 kids in the house + geek dad + ATMega328P = A self made Sensio clone",
+    "date": "2015-10-16"
+  },
+  "wateralarm": {
+    "title": "Prevent a basement flood",
+    "url": "https://www.facebook.com/silvan.muehlemann/posts/10153561435555719",
+    "image":"/static/images/wateralarm.png",
+    "caption": "Ready for the next thunderstorm: I finished my hardware hack (Well, the prototype). An Arduino based water detector which notifies me as soon as the water level in the shaft next to our house is about to flood our basement (happened before).",
+    "date": "2015-07-19"
+  },
+  "blog": {
+    "title": "My (old) blog",
+    "url": "https://blog.xn--mhlemann-65a.ch/2008/07/20/ten-methods-to-obfuscate-e-mail-addresses-compared/",
+    "caption": "In the years 2006 to 2010 everyone had to have a blog. So I had one too. And one article was particularly popular. That's where I compared 9 different email obfuscation methods. That article was featured on Reddit and get still hits now.",
+    "date": "2008-01-10"
+  }
+}
+
+
