@@ -1,12 +1,14 @@
 # aboutme
 
-> Silvan's personal website
+Silvan's personal website, showing my weekend projects.
+
+Side effect: A playground to learn about CSS and VueJS.
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn install
 
 # serve with hot reload at localhost:8080
 npm run dev
