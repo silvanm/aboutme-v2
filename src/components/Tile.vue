@@ -1,13 +1,33 @@
 <template>
   <div class="card-holder">
     <div class="card" v-bind:class="{ isClickable : project.url, hidden:hidden }" v-on:click="openUrl">
-      <img class="card-img-top" v-lazy="project.image" v-if="project.image" >
+
+      <div v-if="project.lightbox">
+        <lightbox
+          :thumbnail="project.image"
+          :images="[project.image]"
+        ></lightbox>
+      </div>
+      <div v-else>
+        <img class="card-img-top" v-lazy="project.image" v-if="project.image"/>
+      </div>
       <div v-html="project.rawhtml" v-if="project.rawhtml"></div>
       <div class="card-body">
         <h4 class="card-title" v-if="project.title">{{project.title}}</h4>
         <div class="card-text">
           <p v-html="project.caption"></p>
-          <div class="text-muted" v-if="project.date">{{project.date | moment("from", "now")}}</div>
+          <div class="text-muted" v-if="project.date">{{project.date | moment("from", "now")}}
+            <div class="vcs-icon" v-if="project.bitbucket">
+              <a :href="project.bitbucket" title="Bitbucket">
+                <img class="icon delay-1" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bitbucket.svg"/>
+              </a>
+            </div>
+            <div class="vcs-icon" v-if="project.github">
+              <a :href="project.github" title="Github">
+                <img class="icon delay-1" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg"/>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -38,7 +58,7 @@
   }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
   .card-holder {
     break-inside: avoid-column;
     padding: 10px;
@@ -66,5 +86,14 @@
     background-image: url("../assets/spinner.svg");
     background-repeat: no-repeat;
     background-position: center;
+  }
+
+  .vcs-icon {
+    float: right;
+    cursor: pointer;
+
+    img {
+      width: 20px;
+    }
   }
 </style>

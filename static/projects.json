@@ -1,19 +1,20 @@
 {
-  "intro" : {
-    "caption": "Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing strategy games with my kids and making long open water swims) is to complete small projects. Even better if they are useful."
+  "intro": {
+    "caption": "<a href='https://www.facebook.com/silvan.muehlemann'><img src='/static/images/avatar.png' style='float:left;width:75px;shape-outside: circle();margin: 4px 24px 0 5px;'></a> Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing <a href='https://www.facebook.com/photo.php?fbid=10154925694480719&set=pb.576250718.-2207520000.1512160695.&type=3&theater'>strategy games</a> with my kids and making <a href='https://www.strava.com/activities/1231186898'>long open water swims</a>) is to complete small tech projects. Even better if they are useful."
   },
   "goetterstammbaum": {
     "title": "Götterstammbaum",
     "url": "http://xn--gtterstammbaum-vpb.xn--mhlemann-65a.ch/",
     "image": "/static/images/goetterstammbaum.png",
-    "caption": "Interactive graph showing 170 greek gods.",
-    "date": "2017-11-13"
+    "caption": "Interactive graph showing 170 greek gods. Assembled together with my son, as after reading <a href='https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians'>Percy Jackson</a> he's fascinated by the greek gods.",
+    "date": "2017-11-13",
+    "github": "https://github.com/silvanm/goetterstammbaum"
   },
   "doorbell": {
     "title": "Multisound-Doorbell",
     "url": "http://mpom-doorbell.herokuapp.com/static/demo.html",
     "image": "/static/images/doorbell.jpg",
-    "caption": "Play with our web based multi-ringtone doorbell we have installed for our coworking-space on this website.",
+    "caption": "Play with our web based multi-ringtone doorbell we have installed for our <a href='https://www.facebook.com/Co-Work-Limmatquai-221743945011289/'>coworking-space</a> on this website.",
     "date": "2017-10-16"
   },
   "meetingroomdisplay": {
@@ -40,8 +41,9 @@
     "title": "Highway Simulator",
     "url": "http://mpom-doorbell.herokuapp.com/static/demo.html",
     "image": "/static/images/highwaysim.gif",
-    "caption": "This little app is a simple simulator of cars on a highway. Play with the parameters or stop any car by touching it.",
-    "date": "2016-10-08"
+    "caption": "This little app is a simple simulator of cars on a highway. Each car has a small AI engine. Play with the parameters or stop any car by touching it.",
+    "date": "2016-10-08",
+    "bitbucket": "https://bitbucket.org/silvanm75/highwaysim"
   },
   "lasertiming": {
     "title": "Laser Timing",
@@ -62,7 +64,8 @@
     "url": "https://www.facebook.com/photo.php?fbid=10153819024815719&set=a.201343665718.161208.576250718&type=3&theater",
     "image": "/static/images/emailstat.jpg",
     "caption": "All the emails sent by me during the past 5 years shown in one graph. Each represented by a dot. The color of the dot represents the domain name.",
-    "date": "2015-11-16"
+    "date": "2015-11-16",
+    "bitbucket": "https://bitbucket.org/silvanm75/d3js-mailindex"
   },
   "sensio": {
     "title": "An Sensio clone",
@@ -73,15 +76,37 @@
   "wateralarm": {
     "title": "Prevent a basement flood",
     "url": "https://www.facebook.com/silvan.muehlemann/posts/10153561435555719",
-    "image":"/static/images/wateralarm.png",
+    "image": "/static/images/wateralarm.png",
     "caption": "Ready for the next thunderstorm: I finished my hardware hack (Well, the prototype). An Arduino based water detector which notifies me as soon as the water level in the shaft next to our house is about to flood our basement (happened before).",
     "date": "2015-07-19"
+  },
+  "penguins": {
+    "title": "Solve the penguin puzzle",
+    "url": "https://xn--mhlemann-65a.ch/penguins/",
+    "image": "/static/images/penguins.jpg",
+    "caption": "An attempt to show my kids how a computer can solve their puzzle (and a fun coding task for dad). They actual problem solving takes about half a second to try 1297 combinations. ",
+    "date": "2015-02-18",
+    "github": "https://github.com/silvanm/penguins"
+  },
+  "aegeriseelauf": {
+    "title": "Visualize race result",
+    "image": "/static/images/aegeriseelauf.jpg",
+    "lightbox": "/static/images/aegeriseelauf.jpg",
+    "caption": "I wanted to learn about <a href='https://d3js.org'>D3.js</a> so I scraped the <a href='https://services.datasport.com/2014/lauf/aegeri/'>results</a> of a race I participated in and visualized it in a dot graph. Can you spot the famous Swiss runner Viktor Röthlin?",
+    "date": "2015-02-18"
   },
   "blog": {
     "title": "My (old) blog",
     "url": "https://blog.xn--mhlemann-65a.ch/2008/07/20/ten-methods-to-obfuscate-e-mail-addresses-compared/",
     "caption": "In the years 2006 to 2010 everyone had to have a blog. So I had one too. And one article was particularly popular. That's where I compared 9 different email obfuscation methods. That article was featured on Reddit and get still hits now.",
     "date": "2008-01-10"
+  },
+  "bikeamp": {
+    "title": "A bicycle amp",
+    "url": "https://www.facebook.com/photo.php?fbid=10155736036065719&set=a.201343665718.161208.576250718&type=3&theater",
+    "image": "/static/images/bikeamp.jpg",
+    "caption": "This vacation I built a amplifier with speakers to attach to my bike. So everyone on the street can enjoy when I play <em>Pump up the Jam</em>, <em>Ride on time</em> or <em>Back to life</em>. I will be the coolest guy at school 😉",
+    "date": "1989-02-18"
   }
 }
 
