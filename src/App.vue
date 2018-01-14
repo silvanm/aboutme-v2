@@ -5,7 +5,7 @@
         <div id="title">
           <h1>Silvan Mühlemann</h1>
           <div id="subtitle">
-            stuff I create on weekends
+            my weekend projects
             <!--  <li class="hide-on-tablets appear-later">Triathlete</li> -->
           </div>
         </div>

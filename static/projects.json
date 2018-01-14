@@ -2,6 +2,20 @@
   "intro": {
     "caption": "<a href='https://www.facebook.com/silvan.muehlemann'><img src='/static/images/avatar.png' style='float:left;width:75px;shape-outside: circle();margin: 4px 24px 0 5px;'></a> Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing <a href='https://www.facebook.com/photo.php?fbid=10154925694480719&set=pb.576250718.-2207520000.1512160695.&type=3&theater'>strategy games</a> with my kids and making <a href='https://www.strava.com/activities/1231186898'>long open water swims</a>) is to complete small tech projects. Even better if they are useful."
   },
+   "commute": {
+    "title": "Where should you live?",
+    "url": "http://commute.xn--mhlemann-65a.ch",
+    "image": "/static/images/commute.jpg",
+    "caption": "A year old project, finally published: This tool helps you find the location for your place of residence. It shows you your commute time two your workplace for an area on the map",
+    "date": "2018-01-14"
+  },
+  "christmassong": {
+    "title": "The family's first music project",
+    "url": "https://soundcloud.com/silvan-muehlemann/orell-und-gwendolyn-weihnachten-2017/s-sftBa",
+    "image": "/static/images/christmassong.jpg",
+    "caption": "A not very techie project: My first music project with my kids. I wrote a simple song which could be played by my daughter who started playing bassoon music 4 months ago.",
+    "date": "2017-12-26"
+  },
   "goetterstammbaum": {
     "title": "Götterstammbaum",
     "url": "http://xn--gtterstammbaum-vpb.xn--mhlemann-65a.ch/",
@@ -54,8 +68,7 @@
   },
   "kitchendisplay": {
     "title": "Kitchendisplay",
-    "url": "https://www.facebook.com/silvan.muehlemann/videos/10153918342970719/",
-    "image": "/static/images/kitchendisplay.jpg",
+    "rawhtml": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//aYoNVOT8XoQ' frameborder='0' allowfullscreen></iframe></div>",
     "caption": "Second life for my old Smartphone: An information display in our kitchen showing tons of informations like my my current location, air quality, nice instagram pictures etc.",
     "date": "2016-01-19"
   },
@@ -87,6 +100,13 @@
     "caption": "An attempt to show my kids how a computer can solve their puzzle (and a fun coding task for dad). They actual problem solving takes about half a second to try 1297 combinations. ",
     "date": "2015-02-18",
     "github": "https://github.com/silvanm/penguins"
+  },
+  "aboutme-v1": {
+    "title": "About me, V1",
+    "url": "/v1/",
+    "image": "/static/images/aboutme-v1.jpg",
+    "caption": "This is the predecessor of the page you're looking at. It shows an image taken from the bridge in front of our office.",
+    "date": "2015-02-18"
   },
   "aegeriseelauf": {
     "title": "Visualize race result",
