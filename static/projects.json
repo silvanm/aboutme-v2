@@ -2,11 +2,39 @@
   "intro": {
     "caption": "<a href='https://www.facebook.com/silvan.muehlemann'><img src='/static/images/avatar.png' style='float:left;width:75px;shape-outside: circle();margin: 4px 24px 0 5px;'></a> Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing <a href='https://www.facebook.com/photo.php?fbid=10154925694480719&set=pb.576250718.-2207520000.1512160695.&type=3&theater'>strategy games</a> with my kids and making <a href='https://www.strava.com/activities/1231186898'>long open water swims</a>) is to complete small tech projects. Even better if they are useful."
   },
+  "dst": {
+    "title": "Does Daylight Savings Time save your daylight?",
+    "image": "https://daylight-savings-time.muehlemann.com/og-image.png",
+    "url": "https://daylight-savings-time.muehlemann.com/",
+    "caption": "There is currently a discussion in the EU whether to abolish \"daylight savings time\" where the clocks are put forward one hour in March and back again in October. The rationale behind \"DST\" is that you get as much sunlight during your work hours as possible. With this app you can check whether daylight savings time makes sense for you. It calculates how many hours of sunlight you get during your usual work hours based on the location selected below.",
+    "date": "2018-10-21"
+  },
+  "aegeriseelauf": {
+    "title": "Visualize race result",
+    "image": "/static/images/aegeriseelauf.jpg",
+    "url": "https://oceanman2018.muehlemann.com?bib=135",
+    "caption": "I wanted to learn about <a href='https://d3js.org'>D3.js</a> so I scraped the results of a race I participated in and visualized it in a dot graph.",
+    "date": "2018-06-23"
+  },
+  "beetles": {
+    "title": "A neural network in your browser",
+    "url": "https://xn--mhlemann-65a.ch/reinforcejs/beetles/",
+    "image": "/static/images/beetles.gif",
+    "caption": "This time I wanted to learn about reinforcement learning. A method where an agent learns the desired behavior just by me giving him rewards. As usual for projects done during family time I put the demo in a child compatible dress: Ladybugs on a racetrack.",
+    "date": "2018-02-24"
+  },
+  "logicpro": {
+    "title": "Rediscovering making music",
+    "url": "https://soundcloud.com/silvan-muehlemann/schtriit",
+    "image": "/static/images/logicpro.jpg",
+    "caption": "After roughtly 20 years of abstinence stepping back into the world of producing music (hobbyist style of course). I completely forgot how great it is to be able to create *exactly* the sound I love! ",
+    "date": "2018-04-15"
+  },
    "commute": {
     "title": "Where should you live?",
     "url": "http://commute.xn--mhlemann-65a.ch",
     "image": "/static/images/commute.jpg",
-    "caption": "A year old project, finally published: This tool helps you find the location for your place of residence. It shows you your commute time two your workplace for an area on the map",
+    "caption": "A year old project, finally published: This tool helps you find the location for your place of residence. It shows you your commute time two your workplace for an area on the map.",
     "date": "2018-01-14"
   },
   "christmassong": {
@@ -53,7 +81,7 @@
   },
   "highwaysim": {
     "title": "Highway Simulator",
-    "url": "http://mpom-doorbell.herokuapp.com/static/demo.html",
+    "url": "https://mühlemann.ch/highwaysim",
     "image": "/static/images/highwaysim.gif",
     "caption": "This little app is a simple simulator of cars on a highway. Each car has a small AI engine. Play with the parameters or stop any car by touching it.",
     "date": "2016-10-08",
@@ -108,13 +136,6 @@
     "caption": "This is the predecessor of the page you're looking at. It shows an image taken from the bridge in front of our office.",
     "date": "2015-02-18"
   },
-  "aegeriseelauf": {
-    "title": "Visualize race result",
-    "image": "/static/images/aegeriseelauf.jpg",
-    "lightbox": "/static/images/aegeriseelauf.jpg",
-    "caption": "I wanted to learn about <a href='https://d3js.org'>D3.js</a> so I scraped the <a href='https://services.datasport.com/2014/lauf/aegeri/'>results</a> of a race I participated in and visualized it in a dot graph. Can you spot the famous Swiss runner Viktor Röthlin?",
-    "date": "2015-02-18"
-  },
   "blog": {
     "title": "My (old) blog",
     "url": "https://blog.xn--mhlemann-65a.ch/2008/07/20/ten-methods-to-obfuscate-e-mail-addresses-compared/",
@@ -129,5 +150,3 @@
     "date": "1989-02-18"
   }
 }
-
-

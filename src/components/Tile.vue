@@ -69,9 +69,9 @@
     cursor: pointer;
   }
 
-  .isClickable:hover {
-    transform: scale(1.03);
-  }
+  /*.isClickable:hover {
+   transform: scale(1.03);
+  } */
 
   .card {
     transition: all .3s ease-in-out;
