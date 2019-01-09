@@ -2,11 +2,19 @@
   "intro": {
     "caption": "<a href='https://www.facebook.com/silvan.muehlemann'><img src='/static/images/avatar.png' style='float:left;width:75px;shape-outside: circle();margin: 4px 24px 0 5px;'></a> Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing <a href='https://www.facebook.com/photo.php?fbid=10154925694480719&set=pb.576250718.-2207520000.1512160695.&type=3&theater'>strategy games</a> with my kids and making <a href='https://www.strava.com/activities/1231186898'>long open water swims</a>) is to complete small tech projects. Even better if they are useful."
   },
+  "instaxmaslights": {
+    "title": "Instagram-driven Christmas-decoration",
+    "image": "/static/images/insta-xmasleds.gif",
+    "url": "https://github.com/silvanm/insta-xmasleds/blob/master/Readme.md",
+    "caption": "It's christmas time and every home owner decorates his house with nervously blinking christmas trees, grazing LED reindeers standing in frontyards and Laser effects in rainbow colors. I am also one of them. But I wanted to add a pinch of IoT and scoop of art to my installation. So my LEDs are Instagram driven: It pulls images with the hashtag #christmas from Instagram and uses them to light up the RGB-LEDs.",
+    "date": "2018-12-09",
+    "github": "https://github.com/silvanm/insta-xmasleds"
+  },
   "dst": {
     "title": "Does Daylight Savings Time save your daylight?",
     "image": "https://daylight-savings-time.muehlemann.com/og-image.png",
     "url": "https://daylight-savings-time.muehlemann.com/",
-    "caption": "There is currently a discussion in the EU whether to abolish \"daylight savings time\" where the clocks are put forward one hour in March and back again in October. The rationale behind \"DST\" is that you get as much sunlight during your work hours as possible. With this app you can check whether daylight savings time makes sense for you. It calculates how many hours of sunlight you get during your usual work hours based on the location selected below.",
+    "caption": "With this app you can check whether daylight savings time makes sense for you. It calculates how many hours of sunlight you get during your usual work hours based on your location.",
     "date": "2018-10-21"
   },
   "aegeriseelauf": {
@@ -85,7 +93,7 @@
     "image": "/static/images/highwaysim.gif",
     "caption": "This little app is a simple simulator of cars on a highway. Each car has a small AI engine. Play with the parameters or stop any car by touching it.",
     "date": "2016-10-08",
-    "bitbucket": "https://bitbucket.org/silvanm75/highwaysim"
+    "github": "https://github.com/silvanm/highwaysim"
   },
   "lasertiming": {
     "title": "Laser Timing",
@@ -106,7 +114,7 @@
     "image": "/static/images/emailstat.jpg",
     "caption": "All the emails sent by me during the past 5 years shown in one graph. Each represented by a dot. The color of the dot represents the domain name.",
     "date": "2015-11-16",
-    "bitbucket": "https://bitbucket.org/silvanm75/d3js-mailindex"
+    "github": "https://github.com/silvanm/d3js-mailindex"
   },
   "sensio": {
     "title": "An Sensio clone",
@@ -150,3 +158,5 @@
     "date": "1989-02-18"
   }
 }
+
+

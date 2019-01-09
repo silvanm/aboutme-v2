@@ -15,7 +15,7 @@
       <div class="card-body">
         <h4 class="card-title" v-if="project.title">{{project.title}}</h4>
         <div class="card-text">
-          <p v-html="project.caption"></p>
+          <p><span v-html="project.caption"> </span> <a :href="project.url" v-if="project.url" >more</a></p>
           <div class="text-muted" v-if="project.date">{{project.date | moment("from", "now")}}
             <div class="vcs-icon" v-if="project.bitbucket">
               <a :href="project.bitbucket" title="Bitbucket">
