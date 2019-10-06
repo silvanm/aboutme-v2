@@ -2,6 +2,29 @@
   "intro": {
     "caption": "<a href='https://www.facebook.com/silvan.muehlemann'><img src='/static/images/avatar.png' style='float:left;width:75px;shape-outside: circle();margin: 4px 24px 0 5px;'></a> Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing <a href='https://www.facebook.com/photo.php?fbid=10154925694480719&set=pb.576250718.-2207520000.1512160695.&type=3&theater'>strategy games</a> with my kids and making <a href='https://www.strava.com/activities/1231186898'>long open water swims</a>) is to complete small tech projects. Even better if they are useful."
   },
+  "meetingroombot": {
+    "title": "More discipline for your meetingroom",
+    "url": "https://gitlab.com/silvan.muehlemann/meetingroom-watcher",
+    "image": "/static/images/meetingroom_watcher.jpg",
+    "caption": "Unused or messy meetingrooms are a thing of the past in our company. Because we have a Meeting Room Watcher which uses AI to prevent bad behavior.",
+    "date": "2019-10-06",
+    "github": "https://gitlab.com/silvan.muehlemann/meetingroom-watcher"
+  },
+  "opendoor-detector": {
+    "title": "Mit Kanonen auf Spatzen schiessen...",
+    "image": "/static/images/opendoor-detector.jpg",
+    "url": "https://www.facebook.com/silvan.muehlemann/videos/10157299977305719/",
+    "caption": "...when you use a convolutional neural network to detect whether the front door is open. But hey, it's fun and very instructive.",
+    "date": "2019-04-22",
+    "internal_note": ""
+  },
+  "namegenerator": {
+    "title": "AI generated names",
+    "image": "/static/images/namegenerator.jpg",
+    "url": "https://ai-generated-names.muehlemann.com",
+    "caption": "I trained a neural network with names of startups, swiss villages and girls. Now it is able to come up with its own fantasy names.",
+    "date": "2019-02-02"
+  },
   "instaxmaslights": {
     "title": "Instagram-driven Christmas-decoration",
     "image": "/static/images/insta-xmasleds.gif",
