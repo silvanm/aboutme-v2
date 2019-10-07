@@ -15,7 +15,6 @@
   "dependencies": {
     "axios": "^0.17.1",
     "bootstrap": "4.0.0-beta.2",
-    "firebase": "^4.6.2",
     "fs": "^0.0.1-security",
     "jquery": "^3.2.1",
     "node-sass": "^4.7.2",

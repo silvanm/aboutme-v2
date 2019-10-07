@@ -4,9 +4,9 @@
   },
   "meetingroombot": {
     "title": "More discipline for your meetingroom",
-    "url": "https://gitlab.com/silvan.muehlemann/meetingroom-watcher",
+    "url": "https://gitlab.com/silvan.muehlemann/meetingroom-watcher/blob/master/Readme.md",
     "image": "/static/images/meetingroom_watcher.jpg",
-    "caption": "Unused or messy meetingrooms are a thing of the past in our company. Because we have a Meeting Room Watcher which uses AI to prevent bad behavior.",
+    "caption": "Unused or messy meeting rooms are a thing of the past in our company. Because I built Meeting Room Watcher which uses AI to prevent bad behavior.",
     "date": "2019-10-06",
     "github": "https://gitlab.com/silvan.muehlemann/meetingroom-watcher"
   },
