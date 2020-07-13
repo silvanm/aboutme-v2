@@ -2,6 +2,30 @@
   "intro": {
     "caption": "<a href='https://www.facebook.com/silvan.muehlemann'><img src='/static/images/avatar.png' style='float:left;width:75px;shape-outside: circle();margin: 4px 24px 0 5px;'></a> Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing <a href='https://www.facebook.com/photo.php?fbid=10154925694480719&set=pb.576250718.-2207520000.1512160695.&type=3&theater'>strategy games</a> with my kids and making <a href='https://www.strava.com/activities/1231186898'>long open water swims</a>) is to complete small tech projects. Even better if they are useful."
   },
+  "epidemy-experiments": {
+    "title": "Picture the spread of a virus",
+    "image": "/static/images/epidemy-experiments.gif",
+    "url": "https://epidemy-experiments.muehlemann.com/",
+    "caption": "Tough times in the world. It also has its fascinating sides for data and visualization geeks like me: Inspired by an article in the Washington Post, I created that app simulating the spread of a virus - and how to slow it down.",
+    "date": "2020-04-05",
+    "github": "https://github.com/silvanm/epidemy-experiments"
+  },
+  "entrancescreen": {
+    "title": "An info-screen with face recognition",
+    "image": "/static/images/entrancescreen.png",
+    "url": "https://github.com/silvanm/entrancescreen",
+    "caption": "Combining an evaluation of Flutter, Google ML Kit, Azure Face Recognition with a useful gadget for our house: An app that tells me everything I need to know before I leave the house. And it recognizes who is entering the house.",
+    "date": "2020-02-02",
+    "github": "https://github.com/silvanm/entrancescreen"
+  },
+  "instaxmaslights": {
+    "title": "Instagram-driven Christmas-decoration",
+    "image": "/static/images/insta-xmasleds.gif",
+    "url": "http://xmaslights.muehlemann.com/",
+    "caption": "It's christmas time and every home owner decorates his house with nervously blinking christmas trees, grazing LED reindeers standing in frontyards and Laser effects in rainbow colors. I am also one of them. But I wanted to add a pinch of IoT and scoop of art to my installation. So my LEDs are Instagram driven: It pulls images with the hashtag #christmas from Instagram and uses them to light up the RGB-LEDs.",
+    "date": "2019-12-27",
+    "github": "https://github.com/silvanm/insta-xmasleds"
+  },
   "meetingroombot": {
     "title": "More discipline for your meetingroom",
     "url": "https://gitlab.com/silvan.muehlemann/meetingroom-watcher/blob/master/Readme.md",
@@ -24,14 +48,6 @@
     "url": "https://ai-generated-names.muehlemann.com",
     "caption": "I trained a neural network with names of startups, swiss villages and girls. Now it is able to come up with its own fantasy names.",
     "date": "2019-02-02"
-  },
-  "instaxmaslights": {
-    "title": "Instagram-driven Christmas-decoration",
-    "image": "/static/images/insta-xmasleds.gif",
-    "url": "https://github.com/silvanm/insta-xmasleds/blob/master/Readme.md",
-    "caption": "It's christmas time and every home owner decorates his house with nervously blinking christmas trees, grazing LED reindeers standing in frontyards and Laser effects in rainbow colors. I am also one of them. But I wanted to add a pinch of IoT and scoop of art to my installation. So my LEDs are Instagram driven: It pulls images with the hashtag #christmas from Instagram and uses them to light up the RGB-LEDs.",
-    "date": "2018-12-09",
-    "github": "https://github.com/silvanm/insta-xmasleds"
   },
   "dst": {
     "title": "Does Daylight Savings Time save your daylight?",
@@ -85,7 +101,7 @@
   },
   "doorbell": {
     "title": "Multisound-Doorbell",
-    "url": "http://mpom-doorbell.herokuapp.com/static/demo.html",
+    "url": "https://doorbell.muehlemann-popp.ch/static/demo.html",
     "image": "/static/images/doorbell.jpg",
     "caption": "Play with our web based multi-ringtone doorbell we have installed for our <a href='https://www.facebook.com/Co-Work-Limmatquai-221743945011289/'>coworking-space</a> on this website.",
     "date": "2017-10-16"
