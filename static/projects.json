@@ -2,9 +2,24 @@
   "intro": {
     "caption": "<a href='https://www.facebook.com/silvan.muehlemann'><img src='/static/images/avatar.png' style='float:left;width:75px;shape-outside: circle();margin: 4px 24px 0 5px;'></a> Learning about new technologies is important for me and for my job as CTO of <a href='http://www.muehlemann-popp.ch'>Mühlemann & Popp</a>. So one of my favourite activities (besides playing <a href='https://www.facebook.com/photo.php?fbid=10154925694480719&set=pb.576250718.-2207520000.1512160695.&type=3&theater'>strategy games</a> with my kids and making <a href='https://www.strava.com/activities/1231186898'>long open water swims</a>) is to complete small tech projects. Even better if they are useful."
   },
+  "vornamen": {
+    "title": "How hip is your name?",
+    "image": "/static/images/vornamen.png",
+    "url": "https://vornamen.muehlemann.com",
+    "caption": "My daughter loves it to spend hours on browsing through lists of first names and creating charts from them. To make her (and me \uD83D\uDE09) happy, I built her a first name explorer app.",
+    "date": "2020-09-20"
+  },
+  "greifenseeschwimmen-visualizer": {
+    "title": "Replay a swimming competition",
+    "video": "/static/images/greifenseeschwimmen",
+    "url": "https://greifenseeschwimmen.muehlemann.com/?bib=Silvan",
+    "caption": "Combining my passion for swimming, graphics and moving dots: I used the tracking data from <a href='https://greifenseeschwimmen.ch'>the last competition I participated in</a> and used it to build a player. Now the athletes can relive the event - and see if they have their <a href=https://en.wikipedia.org/wiki/Negative_split>negative split</a>.",
+    "date": "2020-08-29",
+    "github": "https://github.com/silvanm/greifenseeschwimmen-visualizer"
+  },
   "epidemy-experiments": {
     "title": "Picture the spread of a virus",
-    "image": "/static/images/epidemy-experiments.gif",
+    "video": "/static/images/epidemy-experiments",
     "url": "https://epidemy-experiments.muehlemann.com/",
     "caption": "Tough times in the world. It also has its fascinating sides for data and visualization geeks like me: Inspired by an article in the Washington Post, I created that app simulating the spread of a virus - and how to slow it down.",
     "date": "2020-04-05",
@@ -20,7 +35,7 @@
   },
   "instaxmaslights": {
     "title": "Instagram-driven Christmas-decoration",
-    "image": "/static/images/insta-xmasleds.gif",
+    "video": "/static/images/insta-xmasleds",
     "url": "http://xmaslights.muehlemann.com/",
     "caption": "It's christmas time and every home owner decorates his house with nervously blinking christmas trees, grazing LED reindeers standing in frontyards and Laser effects in rainbow colors. I am also one of them. But I wanted to add a pinch of IoT and scoop of art to my installation. So my LEDs are Instagram driven: It pulls images with the hashtag #christmas from Instagram and uses them to light up the RGB-LEDs.",
     "date": "2019-12-27",
@@ -66,7 +81,7 @@
   "beetles": {
     "title": "A neural network in your browser",
     "url": "https://xn--mhlemann-65a.ch/reinforcejs/beetles/",
-    "image": "/static/images/beetles.gif",
+    "video": "/static/images/beetles",
     "caption": "This time I wanted to learn about reinforcement learning. A method where an agent learns the desired behavior just by me giving him rewards. As usual for projects done during family time I put the demo in a child compatible dress: Ladybugs on a racetrack.",
     "date": "2018-02-24"
   },

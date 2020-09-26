@@ -7,6 +7,7 @@ import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import VueLazyload from 'vue-lazyload'
 import Lightbox from 'vue-pure-lightbox'
+import VueLazyLoadVideo from 'vue-lazyload-video'
 
 Vue.config.productionTip = false
 
@@ -23,3 +24,4 @@ new Vue({
 Vue.use(VueMoment)
 Vue.use(VueLazyload)
 Vue.use(Lightbox)
+Vue.use(VueLazyLoadVideo)
